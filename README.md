@@ -11,3 +11,6 @@ Using Auto Gen by Microsoft.
 
 
     Developers can create an ecosystem of AI agents that specialize in different tasks and cooperate with each other
+
+  reference:
+  https://github.com/microsoft/autogen
